@@ -4,6 +4,6 @@ This is the project folder of me interacting with different Steam API to build m
 
 The folders and the corresponding articles are listed as below
 
-|Folder|Article Title|
-|---|---|
-|[create_app_list](create_app_list/README.md)|Scraping information of all games from Steam with Python|
+|Folder|Article Title|Link|
+|---|---|---|
+|[create_app_list](create_app_list/README.md)|Scraping information of all games from Steam with Python|[Medium](https://medium.com/@mmmmmm44/scraping-information-of-all-games-from-steam-with-python-6e44eb01a299)|
