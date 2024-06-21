@@ -7,3 +7,4 @@ The folders and the corresponding articles are listed as below
 |Folder|Article Title|Link|
 |---|---|---|
 |[create_app_list](create_app_list/README.md)|Scraping information of all games from Steam with Python|[Medium](https://medium.com/@mmmmmm44/scraping-information-of-all-games-from-steam-with-python-6e44eb01a299)|
+|[scrape_comments](scrape_comments/README.md)|Efficiently Scraping Steam Game Reviews with Python: A Comprehensive Guide|[Medium](https://medium.com/codex/efficiently-scraping-steam-game-reviews-with-python-a-comprehensive-guide-3a5732cb7f0b)|
